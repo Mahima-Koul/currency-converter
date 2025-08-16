@@ -7,14 +7,14 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-color: #8AF3FF;
+    background-color: #BDE0FE;
 }
 
 .container {
     font-family: Poppins;
     padding: 2rem;
     background-color: #F7F0F0;
-    border-radius: 5px;
+    border-radius: 40px;
     min-height: 45vh;
     width: 60vh;
 }
@@ -69,7 +69,7 @@ form input{
 }
 
 .button-press{
-    background-color: rgb(131, 131, 174);
+    background-color: #FFC8DD;
     height: 3rem;
     font-size: 1.15rem;
     cursor: pointer;
